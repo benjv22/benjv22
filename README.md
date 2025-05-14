@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @benjv22
-- 👀 I’m interested in JavaScript, Golang, Python, HTML5, CSS, IoT and more!
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on School projects
+- 👋 Hi, I’m Ben
+- 👀 I’m interested in TypeScript, Golang, Python, C#, Vue, Blazor, IoT and more!
 - 📫 How to reach me: Just send a message using GitHub
 
 <!---
